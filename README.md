@@ -2,7 +2,6 @@
 
 <img align="right" alt="coding" width="300" src="https://res.cloudinary.com/dimr2v5xg/image/upload/v1778525358/okkk_igwlaf.png">
 
-# Code with Codespaces
 
 Hi, I'm Vivek 👋
 
