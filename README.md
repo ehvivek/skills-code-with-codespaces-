@@ -5,9 +5,12 @@ Hi, I'm Vivek 👋
 Learning GitHub Codespaces 🚀  
 Interested in Web Development, AI, Graphic Designing, etc
 
-<img src="https://res.cloudinary.com/dimr2v5xg/image/upload/v1778524923/githubdoodling_1000_sw3dim.jpg" align="right" height="200px" />
+<img src="https://res.cloudinary.com/dimr2v5xg/image/upload/v1778525358/okkk_igwlaf.png
 
-Hey ehvivek!
+
+" align="right" height="200px" />
+
+
 
 Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
 
