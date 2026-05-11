@@ -3,16 +3,17 @@
 Hi, I'm Vivek 👋
 
 Learning GitHub Codespaces 🚀  
-Interested in Web Development, AI, Graphic Designing, etc
+Interested in Web Development, AI, Graphic Designing, and Open Source.
 
-<p align="right">
-  <img src="https://res.cloudinary.com/dimr2v5xg/image/upload/v1778525358/okkk_igwlaf.png" width="260"/>
-</p>
+<img src="https://res.cloudinary.com/dimr2v5xg/image/upload/v1778525358/okkk_igwlaf.png" align="right" width="220px" />
 
+Currently exploring:
+- Frontend Development
+- AI Tools & Automation
+- UI/UX Designing
+- Open Source Projects
 
-
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
-
+Always learning and building new things ⚡
 Remember, it's self-paced so feel free to take a break! ☕️
 
 [![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/ehvivek/skills-code-with-codespaces-/issues/1)
