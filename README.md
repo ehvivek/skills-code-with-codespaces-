@@ -1,6 +1,11 @@
-# Code with Codespaces
+# Code with Codespaces 
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
+Hi, I'm Vivek 👋
+
+Learning GitHub Codespaces 🚀  
+Interested in Web Development, AI, Graphic Designing, etc
+
+<img src="https://res.cloudinary.com/dimr2v5xg/image/upload/v1778524923/githubdoodling_1000_sw3dim.jpg" align="right" height="200px" />
 
 Hey ehvivek!
 
