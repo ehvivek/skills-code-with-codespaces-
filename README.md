@@ -5,7 +5,7 @@ Hi, I'm Vivek 👋
 Learning GitHub Codespaces 🚀  
 Interested in Web Development, AI, Graphic Designing, etc
 
-<img src="https://res.cloudinary.com/dimr2v5xg/image/upload/v1778525358/okkk_igwlaf.png" align="right" height="200px" />
+<img src="https://res.cloudinary.com/dimr2v5xg/image/upload/v1778525358/okkk_igwlaf.png" align="right" height="320px" />
 
 
 
